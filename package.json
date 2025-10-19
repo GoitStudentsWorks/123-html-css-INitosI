@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/ecotote-proj/",
+    "build": "vite build --base=/123-html-css-INitosI/",
     "preview": "vite preview"
   },
   "devDependencies": {
